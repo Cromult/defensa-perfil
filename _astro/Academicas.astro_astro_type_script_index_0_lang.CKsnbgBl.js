@@ -1,0 +1,1 @@
+import{o as e,t}from"./anim.BqvVRL47.js";t(`v3-academicas`,()=>{e.from(`.ac-card li`,{x:-20,autoAlpha:0,stagger:.08,duration:.4,ease:`power2.out`,delay:.7})});

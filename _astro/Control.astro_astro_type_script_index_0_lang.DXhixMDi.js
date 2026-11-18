@@ -1,0 +1,1 @@
+import{o as e,t}from"./anim.BqvVRL47.js";t(`v3-control`,()=>{e.from(`.ct-stamp`,{scale:2,autoAlpha:0,duration:.5,ease:`back.out(1.8)`,delay:1}),e.from(`.ct-rev`,{x:-30,autoAlpha:0,stagger:.3,duration:.45,ease:`power2.out`,delay:.6}),e.from(`.ct-tema`,{y:14,autoAlpha:0,stagger:.08,duration:.35,ease:`back.out(1.6)`,delay:.8})});
