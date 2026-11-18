@@ -1,0 +1,1 @@
+import{o as e,t}from"./anim.BqvVRL47.js";t(`academicas`,()=>{e.timeline({defaults:{ease:`power3.out`}}).from(`.kicker, .slide-title`,{y:24,autoAlpha:0,stagger:.1,duration:.6}).from(`.ac-perfil`,{y:24,autoAlpha:0,duration:.55},.3).from(`.ac-perfil .tag`,{scale:.7,autoAlpha:0,stagger:.08,duration:.35,ease:`back.out(2)`},.6)});

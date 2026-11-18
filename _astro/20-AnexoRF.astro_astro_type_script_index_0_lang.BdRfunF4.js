@@ -1,0 +1,1 @@
+import{o as e,t}from"./anim.BqvVRL47.js";t(`anexo-rf`,()=>{e.timeline({defaults:{ease:`power3.out`}}).from(`.kicker, .slide-title`,{y:24,autoAlpha:0,stagger:.1,duration:.5}).from(`.ax-card:not([data-step])`,{y:20,autoAlpha:0,stagger:.07,duration:.4},.25)});

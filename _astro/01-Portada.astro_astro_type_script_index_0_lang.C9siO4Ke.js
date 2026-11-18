@@ -1,0 +1,1 @@
+import{o as e,t}from"./anim.BqvVRL47.js";t(`portada`,()=>{e.timeline({defaults:{ease:`power3.out`}}).from(`.pt-frame`,{drawSVG:`0%`,duration:1.4,ease:`power2.inOut`}).from(`.pt-in`,{y:16,autoAlpha:0,stagger:.08,duration:.5},.2).from(`.pt-escudo`,{scale:.7,autoAlpha:0,duration:.7,ease:`back.out(1.6)`},.4).from(`.pt-title`,{y:20,autoAlpha:0,duration:.6},.7)});

@@ -1,0 +1,1 @@
+import{o as e,t}from"./anim.BqvVRL47.js";t(`infraestructura`,()=>{e.timeline({defaults:{ease:`power3.out`}}).from(`.kicker, .slide-title, .slide-lead`,{y:24,autoAlpha:0,stagger:.1,duration:.6}).from(`.if-card`,{y:40,autoAlpha:0,stagger:.15,duration:.6},.35).from(`.if-card .rounded-xl`,{scale:.85,autoAlpha:0,stagger:.08,duration:.4,ease:`back.out(1.8)`},.8)});

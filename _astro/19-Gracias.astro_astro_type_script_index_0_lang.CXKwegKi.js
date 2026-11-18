@@ -1,0 +1,1 @@
+import{i as e,o as t,t as n}from"./anim.BqvVRL47.js";n(`gracias`,n=>{let r=e.create(n.querySelector(`.gr-title`),{type:`chars`});t.timeline({defaults:{ease:`power3.out`}}).from(`.gr-panel`,{scale:.96,autoAlpha:0,duration:.6}).from(r.chars,{y:60,autoAlpha:0,rotate:8,stagger:.03,duration:.6,ease:`back.out(1.7)`},.3).from(`.gr-in`,{y:20,autoAlpha:0,stagger:.12,duration:.5},.6)});

@@ -1,0 +1,1 @@
+import{o as e,t}from"./anim.BqvVRL47.js";t(`v3-motivo`,()=>{e.from(`.mv-meter`,{width:`20%`,backgroundColor:`#05509E`,duration:1.4,ease:`power2.in`,delay:.8,stagger:.15})});

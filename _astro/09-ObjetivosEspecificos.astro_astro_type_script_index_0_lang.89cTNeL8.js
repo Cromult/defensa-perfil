@@ -1,0 +1,1 @@
+import{o as e,t}from"./anim.BqvVRL47.js";t(`objetivos-especificos`,()=>{e.timeline({defaults:{ease:`power3.out`}}).from(`.kicker, .slide-title`,{y:24,autoAlpha:0,stagger:.1,duration:.6}).from(`.oe-card`,{y:30,autoAlpha:0,duration:.55},.35)});

@@ -1,0 +1,1 @@
+import{o as e,t}from"./anim.BqvVRL47.js";t(`como-se-integra`,()=>{e.timeline({defaults:{ease:`power3.out`}}).from(`.kicker, .slide-title`,{y:24,autoAlpha:0,stagger:.1,duration:.6}).from(`.ci-lane`,{y:30,autoAlpha:0,duration:.5},.3).from(`.ci-lane .ci-box, .ci-lane .ci-arrow, .ci-lane .ci-tag`,{x:-12,autoAlpha:0,stagger:.07,duration:.35},.6)});

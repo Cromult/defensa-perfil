@@ -1,0 +1,1 @@
+import{o as e,t}from"./anim.BqvVRL47.js";t(`v3-cronograma`,()=>{e.from(`.cg-bar`,{scaleX:0,transformOrigin:`left center`,stagger:.05,duration:.5,ease:`power2.out`,delay:.6})});

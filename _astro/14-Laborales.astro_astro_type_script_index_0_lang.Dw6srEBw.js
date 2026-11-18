@@ -1,0 +1,1 @@
+import{o as e,t}from"./anim.BqvVRL47.js";t(`laborales`,()=>{e.timeline({defaults:{ease:`power3.out`}}).from(`.kicker, .slide-title`,{y:24,autoAlpha:0,stagger:.1,duration:.6}).from(`.lb-mapa`,{x:-40,autoAlpha:0,duration:.6},.3).from(`.lb-carga`,{y:24,autoAlpha:0,stagger:.12,duration:.5},.5)});

@@ -1,0 +1,1 @@
+import{o as e,t}from"./anim.BqvVRL47.js";t(`servicios`,()=>{e.timeline({defaults:{ease:`power3.out`}}).from(`.kicker, .slide-title, .slide-lead`,{y:24,autoAlpha:0,stagger:.1,duration:.6}).from(`.sv-line`,{scaleX:0,transformOrigin:`left center`,duration:1},.3).from(`.sv-dot`,{scale:.4,stagger:.1,duration:.45,ease:`back.out(2)`},.4)});

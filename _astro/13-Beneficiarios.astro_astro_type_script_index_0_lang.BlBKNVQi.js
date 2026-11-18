@@ -1,0 +1,1 @@
+import{o as e,t}from"./anim.BqvVRL47.js";t(`beneficiarios`,()=>{e.timeline({defaults:{ease:`power3.out`}}).from(`.kicker, .slide-title`,{y:24,autoAlpha:0,stagger:.1,duration:.6}).from(`.bf-card`,{x:-30,autoAlpha:0,stagger:.15,duration:.55},.35)});

@@ -1,0 +1,1 @@
+import{o as e,t}from"./anim.BqvVRL47.js";document.querySelectorAll(`.slide.v2`).forEach(n=>t(n.dataset.slide,()=>{e.timeline({defaults:{ease:`power3.out`}}).from(`.v2-frame`,{drawSVG:`0%`,duration:.9,ease:`power2.inOut`}).from(`.v2-title, .v2-sub`,{x:-24,autoAlpha:0,stagger:.1,duration:.5},.1).from(`.v2-in`,{y:22,autoAlpha:0,stagger:.09,duration:.45},.35)}));

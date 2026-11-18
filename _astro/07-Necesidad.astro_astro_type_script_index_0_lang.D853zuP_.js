@@ -1,0 +1,1 @@
+import{o as e,t}from"./anim.BqvVRL47.js";t(`necesidad`,()=>{e.timeline({defaults:{ease:`power3.out`}}).from(`.kicker, .slide-title, .slide-lead`,{y:24,autoAlpha:0,stagger:.1,duration:.6}).from(`.nc-meta`,{y:30,scale:.9,autoAlpha:0,stagger:.12,duration:.5,ease:`back.out(1.6)`},.4)});

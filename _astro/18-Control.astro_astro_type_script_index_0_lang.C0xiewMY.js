@@ -1,0 +1,1 @@
+import{o as e,t}from"./anim.BqvVRL47.js";t(`control`,()=>{e.timeline({defaults:{ease:`power3.out`}}).from(`.kicker, .slide-title, .slide-lead`,{y:24,autoAlpha:0,stagger:.1,duration:.6}).from(`.ct-card`,{y:30,autoAlpha:0,duration:.5},.35)});

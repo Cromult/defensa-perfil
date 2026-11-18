@@ -1,0 +1,1 @@
+import{o as e,t}from"./anim.BqvVRL47.js";t(`v3-beneficiarios`,()=>{e.from(`.bf-tile`,{y:30,scale:.92,autoAlpha:0,stagger:.12,duration:.5,ease:`back.out(1.6)`,delay:.6})});
